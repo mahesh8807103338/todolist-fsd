@@ -20,7 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost:3001/",
+  "proxy": "https://todoaa.onrender.com",
   "devDependencies": {
     "bootstrap": "^3.3.7"
   }
