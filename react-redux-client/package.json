@@ -20,7 +20,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://todoaa.onrender.com/api/todo fsd",data
+  "proxy": "https://todoaa.onrender.com/api/todo fsd",
   "devDependencies": {
     "bootstrap": "^3.3.7"
   }
